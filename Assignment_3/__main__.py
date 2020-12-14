@@ -1,8 +1,8 @@
 import pygame
 import math
 from Transformations import transformations
-from GUI import Window_1
-from PyQt5.QtWidgets import QApplication
+#from GUI import Window_1
+#from PyQt5.QtWidgets import QApplication
 import sys
 
 def main():

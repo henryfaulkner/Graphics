@@ -1,7 +1,7 @@
 import pygame
 import math
 #from GUI import Window_1
-from PyQt5.QtWidgets import QApplication
+#from PyQt5.QtWidgets import QApplication
 import sys
 
 class transformations:
